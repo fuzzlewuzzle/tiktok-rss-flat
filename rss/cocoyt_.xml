@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>cocoyt_ TikTok</title>
+    <link>https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/rss/cocoyt_.xml</link>
+    <description>OK Boomer, all the latest TikToks from cocoyt_</description>
+    <atom:link href="https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/rss/cocoyt_.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>cocoyt_ TikTok</title>
+      <link>https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/rss/cocoyt_.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Apr 2026 13:27:57 +0000</lastBuildDate>
+  </channel>
+</rss>
