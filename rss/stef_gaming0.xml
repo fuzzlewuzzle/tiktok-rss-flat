@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>stef_gaming0 TikTok</title>
+    <link>https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/rss/stef_gaming0.xml</link>
+    <description>OK Boomer, all the latest TikToks from stef_gaming0</description>
+    <atom:link href="https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/rss/stef_gaming0.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>stef_gaming0 TikTok</title>
+      <link>https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/rss/stef_gaming0.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Feb 2025 14:30:26 +0000</lastBuildDate>
+    <item>
+      <title>My first video please Support me @Stef_gaming0 #foryoupage #foryoupage #100kviews #foryoupage @PUBG MOBILE </title>
+      <link>https://tiktok.com/@stef_gaming0/video/7473508615744146706</link>
+      <description>&lt;img src="https://github.com/fuzzlewuzzle/tiktok-rss-flat/main/thumbnails/stef_gaming0/screenshot_o84fzFv3AIiRJDmUIqPBu3CfCsEEtnCUgAB3EL~tplv-tiktokx-origin.image.jpg" / &gt; My first video please Support me @Stef_gaming0 #foryoupage #foryoupage #100kviews #foryoupage @PUBG MOBILE </description>
+      <guid isPermaLink="false">https://tiktok.com/@stef_gaming0/video/7473508615744146706</guid>
+      <pubDate>Thu, 20 Feb 2025 14:30:26 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
